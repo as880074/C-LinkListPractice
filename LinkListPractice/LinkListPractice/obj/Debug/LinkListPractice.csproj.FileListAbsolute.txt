@@ -1,0 +1,6 @@
+D:\C#\LinkList\C-LinkListPractice\LinkListPractice\LinkListPractice\bin\Debug\LinkListPractice.exe.config
+D:\C#\LinkList\C-LinkListPractice\LinkListPractice\LinkListPractice\bin\Debug\LinkListPractice.exe
+D:\C#\LinkList\C-LinkListPractice\LinkListPractice\LinkListPractice\bin\Debug\LinkListPractice.pdb
+D:\C#\LinkList\C-LinkListPractice\LinkListPractice\LinkListPractice\obj\Debug\LinkListPractice.csprojAssemblyReference.cache
+D:\C#\LinkList\C-LinkListPractice\LinkListPractice\LinkListPractice\obj\Debug\LinkListPractice.exe
+D:\C#\LinkList\C-LinkListPractice\LinkListPractice\LinkListPractice\obj\Debug\LinkListPractice.pdb
